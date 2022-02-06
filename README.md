@@ -1,2 +1,1 @@
-# DevCard
-Learn ASP.NET Core
+First project on github with asp.net core
